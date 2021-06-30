@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="covid19" src="github/template.png" width="100%">
+  <img alt="covid19" src="github/covid-19.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
@@ -42,7 +42,7 @@ execute o projeto
 ```sh
 npm run start
 ```
-acesse a página no link <a href="localhost:3000">localhost:3000</a>
+acesse a página no localhost:3000
 
 ## 🤝 Contribuindo
 
