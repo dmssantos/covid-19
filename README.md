@@ -21,7 +21,9 @@
 `HTML`   
 `CSS`   
 `JavaScript`   
-`ReacrJS`   
+`ReactJS`   
+`material-ui`   
+`styled-components`
 
 ## 💻 Projeto
 
