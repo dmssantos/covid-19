@@ -29,12 +29,20 @@ Desenvolvimento de um site par exibir os números do covid19. trabalho feito no 
 
 ## 🚀 Execução
 
-Faça o clone do projeto
+Primeiro faça o clone do projeto
 
 ```sh
 git clone https://github.com/dmssantos/covid-19.git
 ```
-
+agora instale as dependências
+```sh
+npm install @material-ui/core styled-components@^5.0.0
+```
+execute o projeto
+```sh
+npm run start
+```
+acesse a página no link <a href="localhost:3000">localhost:3000</a>
 
 ## 🤝 Contribuindo
 
