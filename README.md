@@ -37,7 +37,7 @@ git clone https://github.com/dmssantos/covid-19.git
 ```
 agora instale as dependências
 ```sh
-npm install @material-ui/core styled-components@^5.0.0
+npm i
 ```
 execute o projeto
 ```sh
